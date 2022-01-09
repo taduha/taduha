@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @taduha
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning javascript language
